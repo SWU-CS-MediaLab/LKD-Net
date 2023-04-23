@@ -1,0 +1,7 @@
+pytorch-msssim==0.2.1
+opencv-python==4.4.0.46
+timm==0.5.4
+tensorboardx==2.5.1
+tqdm==4.62.3
+thop
+fvcore
